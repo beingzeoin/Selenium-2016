@@ -1,5 +1,6 @@
 
 public class firefoxauto {
-	System.out.println("first commit");
+	System.out.print (first commit);
+	
 
 }
